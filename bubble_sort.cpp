@@ -16,6 +16,7 @@ int main(){
         }
     }
   }
+  cout<<"array elemnts are";
   for(int i=0;i<n;i++){
     cout<<arr[i]<<" ";
   }
