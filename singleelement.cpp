@@ -14,6 +14,7 @@ int main(){
         if(mp[arr[i]]==1)
         ans=arr[i];
     }
+    cout<<"answer is";
     cout<<ans;
     system("pause");
 
